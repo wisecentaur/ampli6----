@@ -1,0 +1,16 @@
+div {
+    background-color: azure;
+    width: 400px;
+    height: 400px;
+    font-style: italic;
+}
+
+.navigation {
+    height: 200px;
+    background-color: whitesmoke;
+}
+
+.footer {
+    height: 300px;
+    background-color: rgb(255, 230, 189);
+}
